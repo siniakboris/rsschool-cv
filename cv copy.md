@@ -1,0 +1,16 @@
+<h1>Siniak Boris</h1>
+
+<li>e-mail: siniakboris@gmail.com</li>
+<li>Kyiv, Ukraine</li>
+
+
+<h2>Skills:</h2>
+<li>html 5.0</li>
+<li>css 3.0</li>
+<li>basic javascript</li>
+<li>git</li>
+<li>figma</li>
+
+
+<h2>About me:</h2>
+UX/UI designer and try to know about frondend.
