@@ -1,1 +1,0 @@
-https://siniakboris.github.io/rsschool-cv/cv
